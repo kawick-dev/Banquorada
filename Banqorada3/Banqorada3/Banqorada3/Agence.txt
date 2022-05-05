@@ -1,0 +1,5 @@
+745896;agence1;rue1
+521486;agence2;rue2
+745213;agence3;rue3
+954812;agence4;rue4
+324589;agence5;rue5
